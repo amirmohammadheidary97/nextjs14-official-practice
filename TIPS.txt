@@ -2,10 +2,10 @@ Next js Image Component
 
 The <Image> Component is an extension of the HTML <img> tag, and comes with automatic image optimization, such as:
 
-Preventing layout shift automatically when images are loading.
-Resizing images to avoid shipping large images to devices with a smaller viewport.
-Lazy loading images by default (images load as they enter the viewport).
-Serving images in modern formats, like WebP and AVIF, when the browser supports it.
+-Preventing layout shift automatically when images are loading.
+-Resizing images to avoid shipping large images to devices with a smaller viewport.
+-Lazy loading images by default (images load as they enter the viewport).
+-Serving images in modern formats, like WebP and AVIF, when the browser supports it.
 ////////////////////////////////////////////////////////////////////////////////////
 Why optimize fonts?
 Fonts play a significant role in the design of a website, but using custom fonts in your project
